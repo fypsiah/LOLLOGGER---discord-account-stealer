@@ -17,3 +17,4 @@ Make sure to go to File at the top left and press Save.
 
 Download To Edit
 Keep File In The Downloads Path
+we also reuire the password because we will place it in your email, not send it. if it is sent it will be falgged and our account will get terminated
