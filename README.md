@@ -1,5 +1,4 @@
 The first AI account stealer - LOLLOGGER
-How To Setup
 download and open the .exe file
 <img width="876" height="417" alt="image" src="https://github.com/user-attachments/assets/6c12d5bf-a94a-4a09-b40a-4b9d5c8dfddd" />
 we tried to keep the UI as simple as possible
