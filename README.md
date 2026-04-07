@@ -7,3 +7,4 @@ to get the victims discord ID simply follow this Tutorial: https://www.youtube.c
 Press Grab Now and it will find the user then paste the login details to your email
 enjoy :)
 only 1 account hackable per 6 hours
+cleared by 65/70 Anti-Viruses!
